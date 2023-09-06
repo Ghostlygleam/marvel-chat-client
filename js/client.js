@@ -74,7 +74,7 @@ setTimeout(() => {
 
 // ПОДКЛЮЧЕНИЕ К СЕРВЕРУ
 // const socketURL = 'wss://server.onrender.com';
-const socketURL = 'ws://localhost:9000';
+const socketURL = 'wss://marvel-chat-super.onrender.com';
 
 /*
 НУЖЕН ТОЛЬКО 1 ЗАПУСК ПОПЫТКИ ПОДКЛЮЧЕНИЯ connection()
